@@ -16,5 +16,8 @@
     "url": "https://github.com/MateusCruz966/crudJS/issues"
   },
   "homepage": "https://github.com/MateusCruz966/crudJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
